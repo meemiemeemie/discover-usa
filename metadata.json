@@ -1,0 +1,6 @@
+{
+  "name": "Le Grand Voyage : USA",
+  "description": "Application interactive conçue pour présenter les États-Unis aux enfants de CP : géographie, vie scolaire, snacks, monuments, apprentissage de l'anglais et livre interactif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
